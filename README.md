@@ -38,7 +38,7 @@ To view the website locally:
 Alternatively, you can view the live site [here](https://rishwanth365.github.io/Tindog_Website/).
 
 ## 📸 Screenshots
-![Homepage](![image](https://github.com/user-attachments/assets/5a27bd9f-5bad-4017-8d84-5e375b7740f1/800x400)  
+![Homepage](![image](https://github.com/user-attachments/assets/5a27bd9f-5bad-4017-8d84-5e375b7740f1)  
 *Sample screenshot showcasing the Tindog website layout*
 
 ---
