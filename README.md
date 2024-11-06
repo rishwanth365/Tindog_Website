@@ -12,7 +12,6 @@ Feel free to explore it here: [Tindog Website](https://rishwanth365.github.io/Ti
 - [Technologies Used](#technologies-used)
 - [Installation & Usage](#installation--usage)
 - [Screenshots](#screenshots)
-- [License](#license)
 
 ---
 
@@ -39,15 +38,7 @@ To view the website locally:
 Alternatively, you can view the live site [here](https://rishwanth365.github.io/Tindog_Website/).
 
 ## 📸 Screenshots
-![Homepage](https://via.placeholder.com/800x400)  
+![Homepage](![image](https://github.com/user-attachments/assets/5a27bd9f-5bad-4017-8d84-5e375b7740f1/800x400)  
 *Sample screenshot showcasing the Tindog website layout*
 
 ---
-
-## 📝 License
-This project is open-source and available under the MIT License. Feel free to explore, use, and modify the code.
-
----
-
-## 🌟 Acknowledgments
-This project was part of my journey in mastering frontend web development basics during my undergraduate studies. It was inspired by classic pet-related website concepts and serves as a testament to my foundational skills in HTML and CSS.
